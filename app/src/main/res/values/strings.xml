@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">assignment3game</string>
+    <string name="incorrect" />
+    <string name="restart" />
+    <string name="result">result</string>
+    <string name="correct" />
+</resources>
